@@ -1,0 +1,352 @@
+[
+  {
+    "RollNumber": 1,
+    "Name": "Bambi de Keep",
+    "Class": 12,
+    "Age": 17,
+    "Address": "7250 Clyde Gallagher Park"
+  },
+  {
+    "RollNumber": 2,
+    "Name": "Gerardo Aires",
+    "Class": 10,
+    "Age": 15,
+    "Address": "767 4th Trail"
+  },
+  {
+    "RollNumber": 3,
+    "Name": "Marshal Baldrick",
+    "Class": 12,
+    "Age": 16,
+    "Address": "5 Roxbury Street"
+  },
+  {
+    "RollNumber": 4,
+    "Name": "Cosme Worland",
+    "Class": 12,
+    "Age": 18,
+    "Address": "96 Manitowish Alley"
+  },
+  {
+    "RollNumber": 5,
+    "Name": "Stacee Waison",
+    "Class": 12,
+    "Age": 16,
+    "Address": "3166 Di Loreto Avenue"
+  },
+  {
+    "RollNumber": 6,
+    "Name": "Bari Reisen",
+    "Class": 12,
+    "Age": 17,
+    "Address": "05081 Dayton Circle"
+  },
+  {
+    "RollNumber": 7,
+    "Name": "Zane Prickett",
+    "Class": 12,
+    "Age": 18,
+    "Address": "9494 Bunker Hill Drive"
+  },
+  {
+    "RollNumber": 8,
+    "Name": "Teddy Francom",
+    "Class": 11,
+    "Age": 14,
+    "Address": "42869 Cardinal Trail"
+  },
+  {
+    "RollNumber": 9,
+    "Name": "Christophorus Skinn",
+    "Class": 11,
+    "Age": 16,
+    "Address": "0 Sachtjen Circle"
+  },
+  {
+    "RollNumber": 10,
+    "Name": "Gardiner Patty",
+    "Class": 12,
+    "Age": 17,
+    "Address": "433 Pepper Wood Court"
+  },
+  {
+    "RollNumber": 11,
+    "Name": "Grantley Fackrell",
+    "Class": 11,
+    "Age": 15,
+    "Address": "03 Farragut Avenue"
+  },
+  {
+    "RollNumber": 12,
+    "Name": "Tiffi Hugli",
+    "Class": 11,
+    "Age": 15,
+    "Address": "1927 Mockingbird Place"
+  },
+  {
+    "RollNumber": 13,
+    "Name": "Bay Learmont",
+    "Class": 11,
+    "Age": 17,
+    "Address": "5164 Corben Street"
+  },
+  {
+    "RollNumber": 14,
+    "Name": "Berget Youings",
+    "Class": 11,
+    "Age": 15,
+    "Address": "47 Pierstorff Center"
+  },
+  {
+    "RollNumber": 15,
+    "Name": "Annissa Listone",
+    "Class": 10,
+    "Age": 15,
+    "Address": "70 School Drive"
+  },
+  {
+    "RollNumber": 16,
+    "Name": "Simona Stewartson",
+    "Class": 10,
+    "Age": 15,
+    "Address": "325 West Terrace"
+  },
+  {
+    "RollNumber": 17,
+    "Name": "Gaspard Spalton",
+    "Class": 12,
+    "Age": 18,
+    "Address": "5166 Dapin Parkway"
+  },
+  {
+    "RollNumber": 18,
+    "Name": "Merwyn Caze",
+    "Class": 10,
+    "Age": 14,
+    "Address": "07488 Northland Road"
+  },
+  {
+    "RollNumber": 19,
+    "Name": "Margareta Evers",
+    "Class": 12,
+    "Age": 18,
+    "Address": "9449 Bowman Pass"
+  },
+  {
+    "RollNumber": 20,
+    "Name": "Garv Ruckhard",
+    "Class": 10,
+    "Age": 13,
+    "Address": "9288 Nancy Park"
+  },
+  {
+    "RollNumber": 21,
+    "Name": "Haley Branigan",
+    "Class": 12,
+    "Age": 16,
+    "Address": "785 Carioca Street"
+  },
+  {
+    "RollNumber": 22,
+    "Name": "Kathi Puve",
+    "Class": 10,
+    "Age": 13,
+    "Address": "5609 Scott Alley"
+  },
+  {
+    "RollNumber": 23,
+    "Name": "Englebert Ibberson",
+    "Class": 12,
+    "Age": 17,
+    "Address": "2437 Trailsway Trail"
+  },
+  {
+    "RollNumber": 24,
+    "Name": "Gram Stonham",
+    "Class": 12,
+    "Age": 15,
+    "Address": "2 Mcbride Crossing"
+  },
+  {
+    "RollNumber": 25,
+    "Name": "Faulkner Kitley",
+    "Class": 11,
+    "Age": 14,
+    "Address": "4 Nova Trail"
+  },
+  {
+    "RollNumber": 26,
+    "Name": "Romeo Willes",
+    "Class": 12,
+    "Age": 15,
+    "Address": "563 Golf View Court"
+  },
+  {
+    "RollNumber": 27,
+    "Name": "Estevan Gusticke",
+    "Class": 11,
+    "Age": 15,
+    "Address": "180 Vahlen Place"
+  },
+  {
+    "RollNumber": 28,
+    "Name": "Mada McAmish",
+    "Class": 12,
+    "Age": 15,
+    "Address": "0 Forest Run Trail"
+  },
+  {
+    "RollNumber": 29,
+    "Name": "Charlot O'Heffernan",
+    "Class": 11,
+    "Age": 15,
+    "Address": "12848 Banding Lane"
+  },
+  {
+    "RollNumber": 30,
+    "Name": "Connie Ginie",
+    "Class": 11,
+    "Age": 15,
+    "Address": "94 Cherokee Lane"
+  },
+  {
+    "RollNumber": 31,
+    "Name": "Gregg Shear",
+    "Class": 11,
+    "Age": 16,
+    "Address": "08399 Straubel Crossing"
+  },
+  {
+    "RollNumber": 32,
+    "Name": "Jehu Patzelt",
+    "Class": 11,
+    "Age": 15,
+    "Address": "89729 Pawling Avenue"
+  },
+  {
+    "RollNumber": 33,
+    "Name": "Oliver Kenewell",
+    "Class": 11,
+    "Age": 14,
+    "Address": "9435 Pearson Center"
+  },
+  {
+    "RollNumber": 34,
+    "Name": "Jaclyn Pursehouse",
+    "Class": 12,
+    "Age": 14,
+    "Address": "8 Texas Drive"
+  },
+  {
+    "RollNumber": 35,
+    "Name": "Urbanus Roux",
+    "Class": 12,
+    "Age": 16,
+    "Address": "6586 Forest Place"
+  },
+  {
+    "RollNumber": 36,
+    "Name": "Anya Bransom",
+    "Class": 12,
+    "Age": 15,
+    "Address": "455 Vernon Street"
+  },
+  {
+    "RollNumber": 37,
+    "Name": "Beau Newbold",
+    "Class": 12,
+    "Age": 18,
+    "Address": "002 East Point"
+  },
+  {
+    "RollNumber": 38,
+    "Name": "Rhodie Schuck",
+    "Class": 12,
+    "Age": 17,
+    "Address": "5 Grasskamp Park"
+  },
+  {
+    "RollNumber": 39,
+    "Name": "Audi Firpi",
+    "Class": 12,
+    "Age": 16,
+    "Address": "8460 Corscot Junction"
+  },
+  {
+    "RollNumber": 40,
+    "Name": "Kara-lynn Dracey",
+    "Class": 12,
+    "Age": 17,
+    "Address": "28 Utah Point"
+  },
+  {
+    "RollNumber": 41,
+    "Name": "Lydon Petruszka",
+    "Class": 12,
+    "Age": 18,
+    "Address": "3 New Castle Circle"
+  },
+  {
+    "RollNumber": 42,
+    "Name": "Meara Gambell",
+    "Class": 12,
+    "Age": 13,
+    "Address": "08137 Holmberg Drive"
+  },
+  {
+    "RollNumber": 43,
+    "Name": "Neron Frood",
+    "Class": 11,
+    "Age": 15,
+    "Address": "2 Scott Crossing"
+  },
+  {
+    "RollNumber": 44,
+    "Name": "Adda Janout",
+    "Class": 12,
+    "Age": 18,
+    "Address": "0 Harper Plaza"
+  },
+  {
+    "RollNumber": 45,
+    "Name": "Amory Jefford",
+    "Class": 12,
+    "Age": 18,
+    "Address": "09483 Dorton Road"
+  },
+  {
+    "RollNumber": 46,
+    "Name": "Quintina Sheard",
+    "Class": 11,
+    "Age": 15,
+    "Address": "26956 Knutson Place"
+  },
+  {
+    "RollNumber": 47,
+    "Name": "Milena Lober",
+    "Class": 12,
+    "Age": 17,
+    "Address": "9412 High Crossing Street"
+  },
+  {
+    "RollNumber": 48,
+    "Name": "Torey Eckly",
+    "Class": 12,
+    "Age": 16,
+    "Address": "708 Lukken Drive"
+  },
+  {
+    "RollNumber": 49,
+    "Name": "Dacey Soden",
+    "Class": 11,
+    "Age": 17,
+    "Address": "08626 Luster Hill"
+  },
+  {
+    "RollNumber": 50,
+    "Name": "Melantha Bagnold",
+    "Class": 11,
+    "Age": 17,
+    "Address": "73018 Continental Way"
+  }
+]
